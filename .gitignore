@@ -8,6 +8,8 @@
 /blueprint/web/
 /blueprint/src/web.paux
 /blueprint/src/web.bbl
+/blueprint/src/print.pdf
+/blueprint/src/web.pdf
 /blueprint/print/
 ## TeX
 *.aux
@@ -34,3 +36,4 @@
 *.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
+home_page/_includes/_upstreaming_dashboard/
